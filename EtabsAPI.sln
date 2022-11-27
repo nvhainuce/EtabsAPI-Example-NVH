@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtabsAPI-Viduso1", "EtabsAPI-Viduso1\EtabsAPI-Viduso1.csproj", "{3476E2D1-DB52-4C75-BC91-8781459A99FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtabsAPI-DocNL", "EtabsAPI-DocNL\EtabsAPI-DocNL.csproj", "{4A02A4AE-5173-4F42-BCDB-91BF095FABBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3476E2D1-DB52-4C75-BC91-8781459A99FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3476E2D1-DB52-4C75-BC91-8781459A99FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3476E2D1-DB52-4C75-BC91-8781459A99FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3476E2D1-DB52-4C75-BC91-8781459A99FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A02A4AE-5173-4F42-BCDB-91BF095FABBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A02A4AE-5173-4F42-BCDB-91BF095FABBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A02A4AE-5173-4F42-BCDB-91BF095FABBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A02A4AE-5173-4F42-BCDB-91BF095FABBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3320447-BDD4-4ACF-B908-1F183D1B951F}
+	EndGlobalSection
+EndGlobal
